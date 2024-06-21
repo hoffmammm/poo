@@ -15,5 +15,6 @@ namespace ControleDeVinil.Shared.Dados
             return lista;
 
         }
+
     }
 }

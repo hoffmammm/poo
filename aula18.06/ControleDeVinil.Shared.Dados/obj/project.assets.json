@@ -582,11 +582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12201022\\Documents\\Visual Studio 2022\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
+      "projectUniqueName": "H:\\github\\poo\\aula18.06\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
       "projectName": "ControleDeVinil.Shared.Dados",
-      "projectPath": "C:\\Users\\12201022\\Documents\\Visual Studio 2022\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
+      "projectPath": "H:\\github\\poo\\aula18.06\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
       "packagesPath": "C:\\Users\\12201022\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12201022\\Documents\\Visual Studio 2022\\ControleDeVinil.Shared.Dados\\obj\\",
+      "outputPath": "H:\\github\\poo\\aula18.06\\ControleDeVinil.Shared.Dados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12201022\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -603,8 +603,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\12201022\\Documents\\Visual Studio 2022\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj": {
-              "projectPath": "C:\\Users\\12201022\\Documents\\Visual Studio 2022\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj"
+            "H:\\github\\poo\\aula18.06\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj": {
+              "projectPath": "H:\\github\\poo\\aula18.06\\ControleDeVinil.Shared.Modelos\\ControleDeVinil.Shared.Modelos.csproj"
             }
           }
         }

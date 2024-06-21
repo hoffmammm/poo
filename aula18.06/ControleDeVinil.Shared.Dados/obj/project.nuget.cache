@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8otvAGy3WLl+LyCS/J76ixUJGXWaNh7UGczfGtlzNxZL1vO/R2PCMi/lpJ4vqaBtbRppgeajubuw7nxtaBGbnw==",
+  "dgSpecHash": "XEoPiS+39e7UTl1xZsigSK42mUQ0m2+uEEjcS/zEwDNX1XgsRw9vs2xNpiOkqy/tyNx4KwAIi60wAMDm8rYI/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\12201022\\Documents\\Visual Studio 2022\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
+  "projectFilePath": "H:\\github\\poo\\aula18.06\\ControleDeVinil.Shared.Dados\\ControleDeVinil.Shared.Dados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\12201022\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\12201022\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
